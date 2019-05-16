@@ -154,19 +154,6 @@ class DouYin(object):
 
 		print('下载完成!')
 
-	def hello(self):
-		"""
-		打印欢迎界面
-		Parameters:
-			None
-		Returns:
-			None
-		"""
-		print('*' * 100)
-		print('\t\t\t\t抖音App视频下载小助手')
-		print('\t\t作者:Lee')
-		print('*' * 100)
-
 
 if __name__ == '__main__':
 	douyin = DouYin()
